@@ -1,7 +1,7 @@
 리액트로 구현하는 블록체인 이더리움 Dapp
 https://inf.run/buAJ
 
-트랜잭션 구현 목록 해야함
+prosper blood teach genius drama island learn dash critic immune bomb quality
 
 ---version
 tuffle4, node8,
