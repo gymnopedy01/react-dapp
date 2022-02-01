@@ -6,7 +6,7 @@ contract CoinToFlip {
     uint constant MIN_BET = 0.01 ether;
     uint constant MAX_BET = 10 ether;
     uint constant HOUSE_FEE_PERCENT = 5;
-    uint constant HOUSE_MIN_FEE = 0.  ether;
+    uint constant HOUSE_MIN_FEE = 0.1 ether;
 
     address public owner;
     uint public lockedInBets;

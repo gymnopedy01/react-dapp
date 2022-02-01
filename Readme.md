@@ -1,6 +1,31 @@
 리액트로 구현하는 블록체인 이더리움 Dapp
 https://inf.run/buAJ
 
+트랜잭션 구현 목록 해야함
+
+---version
+tuffle4, node8,
+
+PS C:\GitWorkspace\react-dapp> truffle version
+Truffle v4.1.17 (core: 4.1.17)
+Solidity v0.4.26 (solc-js)   
+
+PS C:\GitWorkspace\react-dapp> npm version
+{ npm: '6.13.4',       
+  ares: '1.10.1-DEV',  
+  cldr: '32.0',        
+  http_parser: '2.8.0',
+  icu: '60.1',
+  modules: '57',       
+  napi: '4',
+  nghttp2: '1.39.2',   
+  node: '8.17.0',      
+  openssl: '1.0.2s',   
+  tz: '2017c',
+  unicode: '10.0',     
+  uv: '1.23.2',        
+  v8: '6.2.414.78',    
+  zlib: '1.2.11' }  
 
 
 
@@ -35,3 +60,23 @@ uint reveal = uint(random) % MAX_CASE;
 if ((2 ** reveal) & bet.mask != 0) {
     winningAmount= possibelWinningAmount;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+------------------
+
+PS C:\GitWorkspace\react-dapp\client> npm install react-bootstrap
+
+
+https://getbootstrap.com/docs/3.3/getting-started/
+
+----------------
