@@ -1,5 +1,6 @@
 리액트로 구현하는 블록체인 이더리움 Dapp
 https://inf.run/buAJ
+https://github.com/swkim109/react-dapp/tree/5b00beef67e5a582f15b4c0b136f36ff2d3ff329
 
 prosper blood teach genius drama island learn dash critic immune bomb quality
 
@@ -34,7 +35,8 @@ https://github.com/ethereum/EIPs/issues/190
 https://trufflesuite.com/docs/truffle/
 
 
-PS C:\GitWorkspace\react-dapp> truffle migrate --network develop
+실행전에 이더를 전송해야 합니다.
+PS C:\GitWorkspace\react-dapp> truffle console --network ganache
 truffle(develop)> exec ./send.js
 
 PS C:\GitWorkspace\react-dapp\client> npm run link-contracts
@@ -80,3 +82,6 @@ PS C:\GitWorkspace\react-dapp\client> npm install react-bootstrap
 https://getbootstrap.com/docs/3.3/getting-started/
 
 ----------------
+
+
+https://solidity.readtherdocs.io/en/v0.4.24/
